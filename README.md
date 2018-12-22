@@ -1,2 +1,2 @@
-# Emoji mosaic using Java
-This is a project which lets you create a mosaic with emojis. This can change the way you communicate with people.
+# Customisable Coding Language to teach young minds to code
+In this project the user can change the keywords and let children do simple coding, and teach them the basics of programming
